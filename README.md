@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Isa! 👋
 
-<!--
-**isaspahic16-ship-it/isaspahic16-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student Developer | Interested in Software Development & Technology
 
-Here are some ideas to get you started:
+I'm passionate about programming, computers, and building projects that solve problems. I'm currently learning and improving my skills in different programming languages and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Technologies & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🚀 Projects
+
+- ♟️ **ChessGame** – A chess game built with C++ and web technologies.
+- 🌐 **Portfolio** – My personal portfolio website built with HTML, CSS and JavaScript.
+
+### 🎯 Currently Learning
+
+- C++ programming
+- Web development
+- Software development and problem solving
+
+---
+
+### 📫 Find Me
+
+- GitHub: [@isaspahic16-ship-it](https://github.com/isaspahic16-ship-it)
+
