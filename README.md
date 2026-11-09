@@ -32,4 +32,5 @@ I'm passionate about programming, computers, and building projects that solve pr
 ### 📫 Find Me
 
 - GitHub: [@isaspahic16-ship-it](https://github.com/isaspahic16-ship-it)
+- E-mail: isaspahic16@gmail.com
 
